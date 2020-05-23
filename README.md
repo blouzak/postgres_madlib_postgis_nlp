@@ -1,3 +1,4 @@
+![Docker Image CI](https://github.com/blouzak/postgres_madlib_postgis_nlp/workflows/Docker%20Image%20CI/badge.svg)
 # Postgres Extended
 
 This repo is meant to provide the recipe for building an image with
